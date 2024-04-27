@@ -29,7 +29,7 @@ from sklearn.metrics import accuracy_score
 warnings.filterwarnings("ignore",category=UserWarning)
 
 #opening the csv file into pandas dataframe
-data=pd.read_csv(r'Python\AI\Heart Disease Detector\dataset\heart_disease_data.csv')
+data=pd.read_csv(r'dataset\heart_disease_data.csv')
 
 def getInput():
     list1=[0,0,0,0,0,0,0,0,0,0,0,0,0]
