@@ -14,5 +14,6 @@ FIFA World Cup 2026 Win Probability Predictor Project (Try): The FIFA Win Predic
 
 Implementation:  
 Framework used: SciKit Learn, Python  
-Split the dataset into training and testing data. 
-Use Random Forest algorithm, we can predict whether the match will be a Win, Loss or Draw
+Split the dataset into training and testing data.
+Assign numeric values for each team, venues, etc.
+Using Random Forest algorithm, we can predict whether the match will be a Win, Loss or Draw
